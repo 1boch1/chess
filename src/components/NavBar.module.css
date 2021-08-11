@@ -1,0 +1,54 @@
+.nb {
+  margin-bottom: 1.8vw;
+}
+
+.reload {
+  position: absolute;
+  left: 95vw;
+}
+
+.containernb {
+  margin: 0;
+  margin-left: 0.4vw;
+  height: 2.9vw;
+}
+
+.logo {
+  font-size: 2.8vw;
+}
+
+.logotxt {
+  font-size: 2.1vw;
+  padding-left: 0.48vw;
+}
+
+.buttonReload {
+  font-size: 1.9vw;
+}
+
+@media (max-aspect-ratio: 8/5) {
+  .reload {
+    position: absolute;
+    left: 80vw;
+    top: 0vw;
+  }
+
+  .buttonReload {
+    font-size: 10vw;
+  }
+
+  .containernb {
+    margin: 0;
+    margin-left: 2vw;
+    height: 16.8vw;
+  }
+
+  .logo {
+    font-size: 12vw;
+  }
+
+  .logotxt {
+    font-size: 7vw;
+    padding-left: 24vw;
+  }
+}
