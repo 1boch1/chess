@@ -1,6 +1,6 @@
 # Chess
 
-A local multiplayer chess game made 
+Local multiplayer chess game 
 
 This project was made with: 
 
