@@ -13,6 +13,15 @@ This project was made with:
 ![chess3](https://user-images.githubusercontent.com/69087218/129026096-c14b9966-4a83-4278-9f01-753282767c9e.png)
 ![chess4](https://user-images.githubusercontent.com/69087218/129026218-362533f0-2924-4547-8527-fa012711eba0.png)
 
+## How to use
+
+- You can see whose turn it is under the board
+
+- By `CLICKING` on one of your pieces you can see what moves it can make
+
+- After clicking a pawn you can move it by `CLICKING` on one of the **green** squares
+
+
 ## Project setup
 
 - #### Install the dependencies running this command
