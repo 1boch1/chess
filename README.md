@@ -1,10 +1,10 @@
 # Chess
-
 Local multiplayer chess game 
 
-This project was made with: 
+## Libraries
 
-- [React](https://it.reactjs.org/)
+- [React.js](https://it.reactjs.org/)
+
 
 ## Preview
 
@@ -17,7 +17,7 @@ This project was made with:
 
 - You can see whose turn it is under the board
 
-- By `CLICKING` on one of your pieces you can see what moves it can make
+- By `CLICKING` on one of your pieces, you can see what moves it can make
 
 - After clicking a pawn you can move it by `CLICKING` on one of the **green** squares
 
