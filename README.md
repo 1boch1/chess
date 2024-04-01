@@ -1,5 +1,5 @@
 # Chess
-Local multiplayer chess game 
+Local-Multiplayer Chess Game
 
 ## Libraries
 
